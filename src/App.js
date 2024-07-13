@@ -12,7 +12,17 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Magdalena Zyglewicz and is open-sourced on <a href="https://github.com/Lena3891/Dictionary" target="_blank">GitHub</a>{" "}and hostet on <a href="">Netlify</a></small>
+          <small>
+            Coded by Magdalena Zyglewicz and is open-sourced on{" "}
+            <a
+              href="https://github.com/Lena3891/Dictionary"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>{" "}
+            and hostet on <a href="">Netlify</a>
+          </small>
         </footer>
       </div>
     </div>
