@@ -21,7 +21,8 @@ export default function App() {
             >
               GitHub
             </a>{" "}
-            and hostet on <a href="">Netlify</a>
+            and hostet on{" "}
+            <a href="https://dictionary-app-react-mz.netlify.app/">Netlify</a>
           </small>
         </footer>
       </div>
