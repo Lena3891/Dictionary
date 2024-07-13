@@ -69,4 +69,3 @@ export default function Dictionary(props) {
     return "Loading";
   }
 }
-
